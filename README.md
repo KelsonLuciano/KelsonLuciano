@@ -25,6 +25,7 @@
 
   <a href="https://instagram.com/kelson.l_" target="_blank" rel="external"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" rel="external"></a>
   <a href="https://www.linkedin.com/in/kelson-luciano-7142b821a/" target="_blank" rel="external"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="external"></a>
-    <a href="mailto:kelsonluciano163@gmail.com" target="_blank" rel="external"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="external"></a>
+  <a href="mailto:kelsonluciano163@gmail.com" target="_blank" rel="external"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="external"></a>
+  <a href="https://api.whatsapp.com/send?phone=5547997740273" target="_blank" rel="external"><img src="https://img.shields.io/badge/-Whatsapp-%25?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" rel="external"></a>
 
 </div>
